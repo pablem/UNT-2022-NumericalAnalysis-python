@@ -12,3 +12,8 @@
 + Manejar técnicas del cálculo numérico.
 + Ser capaz de elegir el mejor método para la resolución de un determinado problema.
 + Poder aplicar los métodos numéricos en problemas específicos de su área de interés, interpretando los resultados obtenidos.
+
+## TRABAJOS PRÁCTICOS
++ n1: Guía introductoria a Python.
++ n2: Teoría de errores.
++ n3: Ecuaciones no lineales.
